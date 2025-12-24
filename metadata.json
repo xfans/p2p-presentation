@@ -1,0 +1,5 @@
+{
+  "name": "P2P and NAT Interactive Visualizer",
+  "description": "An educational demonstration of NAT protocol and P2P UDP Hole Punching techniques using interactive SVG animations and step-by-step explanations.",
+  "requestFramePermissions": []
+}
